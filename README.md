@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheGameLoader
+- 🌱 I’m currently learning nothing
+- 📫 How to reach me, don't
+- 😄 Pronouns: idk
+- ⚡ Fun fact: water melon

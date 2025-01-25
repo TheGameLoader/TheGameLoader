@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me, don't
 - 😄 Pronouns: idk
-- ⚡ Fun fact: water melon
+- ⚡ Fun fact: A cup with a handle is a donut

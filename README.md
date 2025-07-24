@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @TheGameLoader
-- 🌱 I’m currently learning nothing
-- 📫 How to reach me, don't
-- 😄 Pronouns: idk
-- ⚡ Fun fact: A cup with a handle is a donut
+Hello I am the Loader
+I am currently fiddling around with git and C, so maybe i will make a commit one day (which is never btw)
